@@ -1,0 +1,211 @@
+.background{
+    background-color:#EDF2C5;
+}
+.container{  
+    background-color:#EDF2C5;
+    height: 940px;  
+    width: 1260px;
+    justify-content: center;
+    margin-left: auto;
+    margin-right:auto;
+  }
+.header{
+    position: absolute;
+    padding-left: 160px;
+    font-family: 'Arial Black';
+    color:#778A50;
+    font-size: 36px;
+}
+.fb{
+    position: absolute; 
+    margin-left:880px;
+    margin-top: 100px;
+}
+.ig{
+    position: absolute; 
+    margin-left:915px;
+    margin-top: 100px;
+}
+#line2{
+    position: absolute; 
+    margin-top: 100px;
+    margin-left: 960px;
+    width: 1px;
+    height: 25px;
+    background-color:#778A50;
+}
+#loginbox{
+    position: absolute; 
+    margin-left:979px;
+    margin-top: 100px;
+    width:60px;
+    height:25px;
+    border-width: 1px;
+    border-radius: 3px;
+    border-style:solid;
+    color : #778A50;
+    background-color : #EDF2C5;
+}
+#joinbox{
+    position: absolute; 
+    margin-left:1049px;
+    margin-top: 100px;
+    width:50px;
+    height:25px;
+    border-width: 1px;
+    border-radius: 3px;
+    border-style:solid;
+    color : #778A50;
+    background-color : #EDF2C5;
+}
+.login{
+    position: absolute; 
+    margin-top: 88px;
+    margin-left: 989px;
+    font-family: 'Arial Black';
+    font-size: 12px;
+    color:#778A50;
+}
+.join{
+    position: absolute; 
+    margin-top: 88px;
+    margin-left: 1058px;
+    font-family: 'Arial Black';
+    font-size: 12px;
+    color:#778A50;
+}
+.nav{
+    margin: 0;padding: 0;
+    position: absolute;
+    margin-top: 145px;
+    padding-left: 160px;
+    font-family: 'Arial Black';
+    color: #EDF2C5;
+    max-width: 940px;
+    height: 44px;
+    display: flex;
+}
+.nav-list{
+    display: flex;
+    margin:16px,30px,16px,30px;
+    padding: 0;
+}
+.nav-list-item{
+    list-style: none;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+#box {
+    position: absolute; 
+    margin-top: 150px;
+    border-radius: 3px;
+    margin-left: 160px;
+    background-color:#778A50;
+    width:940px;
+    height:44px;
+  }
+.pumpkin{
+    position: absolute; 
+    margin-top: 214px;
+    padding-left:160px;
+  }
+.vegetables{
+    position: absolute;
+    margin-top: 677px;
+    padding-left: 190px;
+    font-family: 'Arial Black';
+    color: #EDF2C5;
+    font-size: 16px;
+}
+#box2{
+    position: absolute; 
+    margin-top: 692px;
+    border-radius: 3px;
+    margin-left: 160px;
+    background-color:#778A50;
+    width:445px;
+    height:45px;
+}
+.pepper{
+    position: absolute; 
+    margin-left: 160px;
+    margin-top: 752px;
+}
+.carrot{
+    position: absolute; 
+    margin-left: 312px;
+    margin-top: 752px;
+}
+.corn{
+    position: absolute; 
+    margin-left: 464px;
+    margin-top: 752px;  
+}
+.contact{
+    position: absolute;
+    margin-top: 677px;
+    padding-left: 671px;
+    font-family: 'Arial Black';
+    color: #EDF2C5;
+    font-size: 16px;
+}
+#box3{
+    position: absolute; 
+    margin-top: 692px;
+    border-radius: 3px;
+    margin-left: 655px;
+    background-color:#778A50;
+    width:445px;
+    height:45px;
+}
+#box4{
+    position: absolute; 
+    margin-top: 752px;
+    border-radius: 3px;
+    margin-left: 655px;
+    background-color:#F7FBDA;
+    width:445px;
+    height:140px;
+}
+.word{
+    position: absolute; 
+    margin-left: 671px;
+    margin-top: 768px;
+    font-size: 12px;
+    color:#7D7D7D;
+    font-family: 'Arial Regular';
+    line-height: 1.33;
+}
+#line{
+    position: absolute;
+    margin-left: 671px;
+    margin-top: 826px;
+    width: 414px;
+    height: 1px;
+    background-color: #7D7D7D;
+}
+.word2{
+    position: absolute; 
+    margin-left: 671px;
+    margin-top: 839px;
+    font-size: 12px;
+    color:#7D7D7D;
+    font-family: 'Arial Regular';
+    line-height: 1.83;
+}
+#box5{
+    position: absolute;
+    margin-top: 927px;
+    width: 1264px;
+    height: 60px;
+    background-color:#778A50;
+}
+.word3{
+    position: absolute;
+    margin-top: 952px;
+    margin-left: 479px;
+    margin-bottom: 25px;
+    font-size: 12px;
+    color: #EDF2C5;
+    font-family: 'Arial Regular';
+}
